@@ -1,2 +1,2 @@
-# Landslides_GEOG761_FinalProject
-A landslide susceptibility analysis using Random Forest and CNN as academic approach
+# Landslides_Master_Research
+A landslide susceptibility analysis using Random Forest, Support Vector Machine and Xboost.
